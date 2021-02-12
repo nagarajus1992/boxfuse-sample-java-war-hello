@@ -1,11 +1,10 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: NAGARAJU1 success!</title>
     <title>Boxfuse Sample App: NAGARAJU2 success!</title>
     <title>Boxfuse Sample App: NAGARAJU3 success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Congratulations! MR,SALIPALLI NAGARAJU</h1>
 <img src="boxfuse.png">
 
 <h2>You have successfully launched your Instance!</h2>
@@ -14,7 +13,7 @@
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
 
-<p>It is based on the Image <strong><%= System.getenv("BOXFUSE_IMAGE_COORDINATES")%>
+<p>It is based on the Image <strong><%= System.getenv("BOXFUSE_IMAGE_COORDINATES OF NAGARAJU")%>
 </strong> generated from <strong><%= System.getenv("BOXFUSE_PAYLOAD_NAME")%>
 </strong></p>
 
